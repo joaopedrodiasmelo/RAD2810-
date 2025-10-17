@@ -1,0 +1,13 @@
+---
+title: "Relatório - Lista E4"
+---
+
+# Relatório - Lista E4
+
+Este site apresenta os resultados da **Lista E4** da disciplina RAD2810, incluindo:
+- Descrição da base de dados
+- Gráficos descritivos
+- Modelo de regressão linear
+- Interpretações e predições
+
+Para ver o notebook completo, acesse o menu **Análises** acima.

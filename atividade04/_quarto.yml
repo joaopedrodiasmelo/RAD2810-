@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Relatório - Lista E4"
+  navbar:
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Análises"
+        href: trabalho04.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
